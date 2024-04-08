@@ -2,6 +2,10 @@
 
 Formulaire : https://forms.monday.com/forms/2345d97746803a5dd9da6cf1c26646fd?r=use1
 
+### INFOS 
+
+25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer les CV mis à jour, nommé "PrenomNOMdotnetparis".
+
 ### 08 Avril
 
 Réunion Teams 9h30 : https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTg4ODMwMjAtNzAxOC00NGYwLWJmMmEtYzk5NzdjYTgyYTU2%40thread.v2/0?context=%7b%22Tid%22%3a%22b4e8d7e6-d394-4a8f-bcb1-340589b4b08f%22%2c%22Oid%22%3a%2230f22fe6-f778-480c-b1ad-bf7aef144954%22%7d
