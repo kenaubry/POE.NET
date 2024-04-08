@@ -4,6 +4,8 @@ Formulaire : https://forms.monday.com/forms/2345d97746803a5dd9da6cf1c26646fd?r=u
 
 Invitation Discord : https://discord.gg/BwtJAUReQU
 
+Mot de passe PC : Pa55w.rd
+
 ### INFOS 
 
 25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer les CV mis à jour, nommé "PrenomNOMdotnetparis".
