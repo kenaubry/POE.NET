@@ -17,9 +17,9 @@ Mot de passe PC : Pa55w.rd
 Stack de votre formation :
 - JavaScript (Node.js)
 - SQL
-- HTML/CSS/JavaScript
-- Angular/TypeScript/Bootstrap
-- C# .NET
+- HTML / CSS / JavaScript
+- Angular / TypeScript / Bootstrap
+- C# / ASP .NET
 - Microsoft Azure
 
 ### 08 Avril
