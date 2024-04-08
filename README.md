@@ -35,3 +35,9 @@ Composants d'un système d'information : https://redstoneformations.fr/Cours/Com
 Industrie 4.0 : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Industrie_4_0/ib#/
 
 QCM - Industrie 4.0 :
+
+Etude de cas - Industrie 4.0 : 
+
+Fondamentaux DevOps :
+
+Pipeline CI/CD :
