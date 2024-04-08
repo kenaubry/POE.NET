@@ -1,14 +1,16 @@
 # POE .NET - 8 avril au 18 avril
 
-Formulaire : https://forms.monday.com/forms/2345d97746803a5dd9da6cf1c26646fd?r=use1
+- Emargement à chaque début de demi journée
+- Formulaire stagiaire à remplir a la fin de chaque demi journée
+- Formulaire IB à remplir à la fin de chaque module (3 en l’occurence)
+
+Formulaire stagiaire : https://forms.monday.com/forms/2345d97746803a5dd9da6cf1c26646fd?r=use1
 
 Invitation Discord : https://discord.gg/BwtJAUReQU
 
-Mot de passe PC : Pa55w.rd
-
-Github : github.com/kenaubry/POE.NET 
-
 ### INFOS 
+
+Mot de passe PC : Pa55w.rd
 
 25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer les CV mis à jour, nommé "PrenomNOMdotnetparis".
 
