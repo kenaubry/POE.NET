@@ -38,7 +38,7 @@ Industrie 4.0 : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et
 
 QCM - Industrie 4.0 : https://forms.gle/nyessyt45iKpUBDNA
 
-Etude de cas - Industrie 4.0 : 
+Etude de cas - Industrie 4.0 : https://nimble-echinacea-d64.notion.site/Exercice-Alpha-Manufacturing-c626b200ea1546c49082f67986352be9?pvs=4
 
 Fondamentaux DevOps :
 
