@@ -40,7 +40,7 @@ QCM - Industrie 4.0 : https://forms.gle/nyessyt45iKpUBDNA
 
 Etude de cas - Industrie 4.0 : https://nimble-echinacea-d64.notion.site/Exercice-Alpha-Manufacturing-c626b200ea1546c49082f67986352be9?pvs=4
 
-Correction - Etude de cas - Industrie 4.0 : 
+Correction - Etude de cas - Industrie 4.0 : https://nimble-echinacea-d64.notion.site/Correction-Alpha-Manufacturing-62dfba128607498295d42b979e1f857f?pvs=4
 
 TP - Conception d'application : 
 
