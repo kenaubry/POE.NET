@@ -1,6 +1,6 @@
 # POE .NET - 8 avril au 18 avril
 
-EMARGEMENT MATIN 08 AVRIL : https://formation.bienvenue.pro/signature/06DD-E35D
+EMARGEMENT APRES MIDI 08 AVRIL : https://formation.bienvenue.pro/signature/8CB5-F622
 
 - Emargement à chaque début de demi journée
 - Formulaire stagiaire à remplir a la fin de chaque demi journée
