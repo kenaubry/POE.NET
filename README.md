@@ -42,7 +42,7 @@ Etude de cas - Industrie 4.0 : https://nimble-echinacea-d64.notion.site/Exercice
 
 Correction - Etude de cas - Industrie 4.0 : https://nimble-echinacea-d64.notion.site/Correction-Alpha-Manufacturing-62dfba128607498295d42b979e1f857f?pvs=4
 
-TP - Conception d'application : 
+TP - Conception d'application : https://nimble-echinacea-d64.notion.site/Enonc-TP-Conception-d-application-052aea7cae7745e0867a448adfca0aff?pvs=4
 
 ### 09 Avril
 
