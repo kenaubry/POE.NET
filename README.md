@@ -6,6 +6,7 @@ Invitation Discord : https://discord.gg/BwtJAUReQU
 
 Mot de passe PC : Pa55w.rd
 
+Github : github.com/kenaubry/POE.NET 
 ### INFOS 
 
 25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer les CV mis à jour, nommé "PrenomNOMdotnetparis".
