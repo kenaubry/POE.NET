@@ -14,6 +14,14 @@ Mot de passe PC : Pa55w.rd
 
 25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer votre CV mis à jour, nommé "PrenomNOMdotnetparis".
 
+Stack de votre formation :
+- JavaScript (Node.js)
+- SQL
+- HTML/CSS/JavaScript
+- Angular/TypeScript/Bootstrap
+- C# .NET
+- Microsoft Azure
+
 ### 08 Avril
 
 Métiers de l'informatique : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Les_metiers_de_l_informatique/ib#/
