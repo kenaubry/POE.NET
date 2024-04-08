@@ -40,6 +40,12 @@ QCM - Industrie 4.0 : https://forms.gle/nyessyt45iKpUBDNA
 
 Etude de cas - Industrie 4.0 : https://nimble-echinacea-d64.notion.site/Exercice-Alpha-Manufacturing-c626b200ea1546c49082f67986352be9?pvs=4
 
+Correction - Etude de cas - Industrie 4.0 : 
+
+TP - Conception d'application : 
+
+### 09 Avril
+
 Fondamentaux DevOps :
 
 Pipeline CI/CD :
