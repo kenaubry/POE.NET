@@ -49,3 +49,5 @@ Exercice - User Stories : https://nimble-echinacea-d64.notion.site/Exercice-User
 Correction - User Stories : https://nimble-echinacea-d64.notion.site/Correction-User-Stories-8f48f35537fd4b649b33fa174993dc89?pvs=4
 
 Exercice - CI/CD : https://docs.google.com/forms/d/e/1FAIpQLSdNLCMYJRt1znIVmwZcSGe-UDsBs8FJRxRCXAQ8fqQW7qDgHA/viewform
+
+Correction - CI/CD : https://nimble-echinacea-d64.notion.site/Correction-CI-CD-385e42029022433d9f63a1b178f517fe?pvs=4
