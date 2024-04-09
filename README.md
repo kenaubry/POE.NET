@@ -46,4 +46,4 @@ Pipeline CI/CD : https://redstoneformations.fr/Cours/Comprendre_l_informatique_e
 
 Exercice - CI/CD :
 
-Exercice - User Stories :
+Exercice - User Stories : https://nimble-echinacea-d64.notion.site/Exercice-User-Stories-3686ff594162402791c0f5b4bded63a0?pvs=4
