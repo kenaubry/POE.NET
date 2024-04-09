@@ -1,7 +1,5 @@
 # POE .NET - 8 avril au 18 avril
 
-Lien Google Forms de test : https://forms.gle/wCufPxsXNX5YX5oc7
-
 EMARGEMENT MATIN 09 AVRIL : https://formation.bienvenue.pro/signature/DDD1-631B
 
 - Emargement à chaque début de demi journée
