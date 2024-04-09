@@ -46,6 +46,6 @@ TP - Conception d'application : https://nimble-echinacea-d64.notion.site/Enonc-T
 
 ### 09 Avril
 
-Fondamentaux DevOps :
+Fondamentaux DevOps : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Fondamentaux_DevOps/ib#/
 
-Pipeline CI/CD :
+Pipeline CI/CD : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Pipeline_CI_CD/ib#/
