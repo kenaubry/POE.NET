@@ -53,3 +53,5 @@ Exercice - CI/CD : https://docs.google.com/forms/d/e/1FAIpQLSdNLCMYJRt1znIVmwZcS
 Correction - CI/CD : https://nimble-echinacea-d64.notion.site/Correction-CI-CD-385e42029022433d9f63a1b178f517fe?pvs=4
 
 Diagramme de cas d'utilisation : https://nimble-echinacea-d64.notion.site/Diagramme-de-cas-d-utilisation-e585e3df898e43d6b8fe583d24667588?pvs=4
+
+Exercice - Diagramme de cas d'utilisation : https://nimble-echinacea-d64.notion.site/Exercice-Cas-d-utilisation-341e3d0e53cd467cabeafc45eb16cf03?pvs=4
