@@ -16,13 +16,7 @@ Mot de passe PC : Pa55w.rd
 
 25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer votre CV mis à jour, nommé "PrenomNOMdotnetparis".
 
-Stack de votre formation :
-- JavaScript (Node.js)
-- SQL
-- HTML / CSS / JavaScript
-- Angular / TypeScript / Bootstrap
-- C# / ASP .NET
-- Microsoft Azure
+Stack de votre formation : https://nimble-echinacea-d64.notion.site/Liste-stacks-POE-NET-c9a309645dfb4de5b74de93e40b0540e?pvs=4
 
 ### 08 Avril
 
