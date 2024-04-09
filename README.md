@@ -43,3 +43,7 @@ TP - Conception d'application : https://nimble-echinacea-d64.notion.site/Enonc-T
 Fondamentaux DevOps : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Fondamentaux_DevOps/ib#/
 
 Pipeline CI/CD : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Pipeline_CI_CD/ib#/
+
+Exercice - CI/CD :
+
+Exercice - User Stories :
