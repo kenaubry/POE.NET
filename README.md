@@ -3,7 +3,7 @@
 EMARGEMENT APRES-MIDI 09 AVRIL :
 
 - Emargement à chaque début de demi journée
-- Formulaire stagiaire à remplir a la fin de chaque demi journée
+- Formulaire stagiaire à remplir a la fin de CHAQUE demi-journée 
 - Formulaire IB à remplir à la fin de chaque module (3 en l’occurence)
 
 Formulaire stagiaire : https://forms.monday.com/forms/2345d97746803a5dd9da6cf1c26646fd?r=use1
