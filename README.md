@@ -12,6 +12,8 @@ Invitation Discord : https://discord.gg/BwtJAUReQU
 
 ### INFOS 
 
+Dossier de partage : https://ibformation.net/114
+
 Mot de passe PC : Pa55w.rd
 
 25 avril : Vous aurez au préalable un cours pour réecrire votre CV et vers le 25 avril il faudra envoyer votre CV mis à jour, nommé "PrenomNOMdotnetparis".
