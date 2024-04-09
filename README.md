@@ -44,8 +44,8 @@ Fondamentaux DevOps : https://redstoneformations.fr/Cours/Comprendre_l_informati
 
 Pipeline CI/CD : https://redstoneformations.fr/Cours/Comprendre_l_informatique_et_ses_metiers-6021686448/Cours/Pipeline_CI_CD/ib#/
 
-Exercice - CI/CD : https://docs.google.com/forms/d/e/1FAIpQLSdNLCMYJRt1znIVmwZcSGe-UDsBs8FJRxRCXAQ8fqQW7qDgHA/viewform
-
 Exercice - User Stories : https://nimble-echinacea-d64.notion.site/Exercice-User-Stories-3686ff594162402791c0f5b4bded63a0?pvs=4
 
 Correction - User Stories : https://nimble-echinacea-d64.notion.site/Correction-User-Stories-8f48f35537fd4b649b33fa174993dc89?pvs=4
+
+Exercice - CI/CD : https://docs.google.com/forms/d/e/1FAIpQLSdNLCMYJRt1znIVmwZcSGe-UDsBs8FJRxRCXAQ8fqQW7qDgHA/viewform
