@@ -71,3 +71,5 @@ TP - Diagramme pour votre application : https://nimble-echinacea-d64.notion.site
 Git - Théorie : https://nimble-echinacea-d64.notion.site/Cours-Git-Theorie-7d187a5f0d1d4da28ee7d0720071b28b?pvs=4
 
 Exercice - Workflow Git : https://nimble-echinacea-d64.notion.site/Exercice-Workflow-Git-21c93c051c404eb8a3a356e4f151e040?pvs=4
+
+Correction - Workflow Git : https://nimble-echinacea-d64.notion.site/Correction-Workflow-Git-514e8d9396594fa789b4f05de22d01e9?pvs=4
