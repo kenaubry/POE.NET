@@ -67,3 +67,5 @@ Exercice - Analyse de diagramme de cas d'utilisation : https://docs.google.com/f
 Correction - Analyse de diagramme de cas d'utilisation : https://nimble-echinacea-d64.notion.site/Correction-Analyse-de-diagramme-c14322e42e2b41cdb7cc75272641f5b8?pvs=4
 
 TP - Diagramme pour votre application : https://nimble-echinacea-d64.notion.site/TP-Diagrammes-pour-votre-application-53c5c81318a348a69783d9ac5c84bc2c?pvs=4
+
+Git - Théorie : https://nimble-echinacea-d64.notion.site/Cours-Git-Theorie-7d187a5f0d1d4da28ee7d0720071b28b?pvs=4
