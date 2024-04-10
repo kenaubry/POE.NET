@@ -81,3 +81,5 @@ Télécharger Node.js : https://nodejs.org/en
 Exercices - Introduction au JavaScript : https://docs.google.com/forms/d/e/1FAIpQLSddlLZ2IOW1NujBLGfK_h4-1_Bxu2Ylqeyz0v5oftI8Vn4UEA/viewform
 
 POUR BENOIT - Exercices - Introduction au JavaScript : https://forms.gle/gAG3fycsZVGvtyNM9
+
+Correction - Introduction au JavaScript : https://nimble-echinacea-d64.notion.site/Correction-1-6-54f37e53e7474878a5f107d0c8a0217d?pvs=4
