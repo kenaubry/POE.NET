@@ -62,6 +62,6 @@ Correction - Diagramme de cas d'utilisation : https://nimble-echinacea-d64.notio
 
 ### 10 Avril
 
-Exercice - Analyse de diagramme :
+Exercice - Analyse de diagramme de cas d'utilisation : https://docs.google.com/forms/d/e/1FAIpQLSeJoGKYFIu2uAK-5I9s-ofdWleRvNl2ZUxwvLyPAqUZSDjeyQ/viewform
 
-Correction - Analyse de diagramme :
+Correction - Analyse de diagramme de cas d'utilisation :
