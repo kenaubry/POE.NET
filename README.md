@@ -65,3 +65,5 @@ Correction - Diagramme de cas d'utilisation : https://nimble-echinacea-d64.notio
 Exercice - Analyse de diagramme de cas d'utilisation : https://docs.google.com/forms/d/e/1FAIpQLSeJoGKYFIu2uAK-5I9s-ofdWleRvNl2ZUxwvLyPAqUZSDjeyQ/viewform
 
 Correction - Analyse de diagramme de cas d'utilisation : https://nimble-echinacea-d64.notion.site/Correction-Analyse-de-diagramme-c14322e42e2b41cdb7cc75272641f5b8?pvs=4
+
+TP - Diagramme pour votre application : https://nimble-echinacea-d64.notion.site/TP-Diagrammes-pour-votre-application-53c5c81318a348a69783d9ac5c84bc2c?pvs=4
