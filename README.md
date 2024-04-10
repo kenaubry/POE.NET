@@ -77,3 +77,5 @@ Correction - Workflow Git : https://nimble-echinacea-d64.notion.site/Correction-
 Introduction au JavaScript : https://nimble-echinacea-d64.notion.site/Fondamentaux-JavaScript-d1d4cb45a4c547629f08811274ea2fba?pvs=4
 
 Télécharger Node.js : https://nodejs.org/en
+
+Exercices - Introduction au JavaScript : https://docs.google.com/forms/d/e/1FAIpQLSddlLZ2IOW1NujBLGfK_h4-1_Bxu2Ylqeyz0v5oftI8Vn4UEA/viewform
