@@ -3,7 +3,9 @@
 Evaluation de fin de module :
 
 Lien : https://eval.ib-formation.com/
+
 Numéro de session : 24200590
+
 Date de début : 08/04/2024
 
 EMARGEMENT MATIN 11 AVRIL : https://formation.bienvenue.pro/signature/D301-A1B0
