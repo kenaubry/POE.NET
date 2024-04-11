@@ -93,3 +93,5 @@ Les chaînes de caractères en JavaScript : https://nimble-echinacea-d64.notion.
 Exercice - Chaines de caractères : https://nimble-echinacea-d64.notion.site/Enonc-Batterie-de-cha-nes-5ff12774b178428194b479e5fe426a0b?pvs=4
 
 Exercice - BONUS - Menu : https://nimble-echinacea-d64.notion.site/Exercice-Menu-3e229b1483e340db8b55978bbcc5113e?pvs=4
+
+Correction - Chaines de caractères : https://nimble-echinacea-d64.notion.site/Correction-Batterie-de-cha-nes-2c7d66998e264bdfbb133c395d6cd5c9?pvs=4 
