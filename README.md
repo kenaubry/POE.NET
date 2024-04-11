@@ -85,3 +85,5 @@ POUR BENOIT - Exercices - Introduction au JavaScript : https://forms.gle/gAG3fyc
 EXERCICE BONUS JAVASCRIPT : https://nimble-echinacea-d64.notion.site/TP-Animaux-mythiques-9ecb4ae9a31749d1936fabe3415e6cf5?pvs=4
 
 Exercices - Boucles : https://nimble-echinacea-d64.notion.site/Exercices-Boucles-481312dc84594dac8d844b78ec1bb277?pvs=4
+
+Correction - Introduction au JavaScript : https://nimble-echinacea-d64.notion.site/Correction-Fondamentaux-5deb2bca758049bbb98a6bfe305dde60?pvs=4
