@@ -89,3 +89,5 @@ Exercices - Boucles : https://nimble-echinacea-d64.notion.site/Exercices-Boucles
 Correction - Introduction au JavaScript : https://nimble-echinacea-d64.notion.site/Correction-Fondamentaux-5deb2bca758049bbb98a6bfe305dde60?pvs=4
 
 Les chaînes de caractères en JavaScript : https://nimble-echinacea-d64.notion.site/Les-Cha-nes-de-caract-res-en-JavaScript-050d043fb35b432995eeb5818055896d?pvs=4
+
+Exercice - Chaines de caractères : https://nimble-echinacea-d64.notion.site/Enonc-Batterie-de-cha-nes-5ff12774b178428194b479e5fe426a0b?pvs=4
