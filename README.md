@@ -1,20 +1,12 @@
 # POE .NET - 8 avril au 18 avril
 
-Evaluation de fin de module :
-
-Lien : https://eval.ib-formation.com/
-
-Numéro de session : 24200590
-
-Date de début : 08/04/2024
-
 EMARGEMENT MATIN 11 AVRIL : https://formation.bienvenue.pro/signature/D301-A1B0
 
 - Emargement à chaque début de demi journée
 - Formulaire stagiaire à remplir a la fin de CHAQUE demi-journée 
 - Formulaire IB à remplir à la fin de chaque module (3 en l’occurence)
 
-Formulaire stagiaire : https://forms.monday.com/forms/2345d97746803a5dd9da6cf1c26646fd?r=use1
+Formulaire stagiaire : https://forms.monday.com/forms/9040c4af0a57b3efb8478caec8cc44e2?r=use1
 
 Invitation Discord : https://discord.gg/BwtJAUReQU
 
