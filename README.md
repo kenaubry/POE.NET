@@ -74,6 +74,8 @@ Exercice - Workflow Git : https://nimble-echinacea-d64.notion.site/Exercice-Work
 
 Correction - Workflow Git : https://nimble-echinacea-d64.notion.site/Correction-Workflow-Git-514e8d9396594fa789b4f05de22d01e9?pvs=4
 
+### 11 Avril
+
 Introduction au JavaScript : https://nimble-echinacea-d64.notion.site/Fondamentaux-JavaScript-d1d4cb45a4c547629f08811274ea2fba?pvs=4
 
 Télécharger Node.js : https://nodejs.org/en
@@ -92,8 +94,10 @@ Les chaînes de caractères en JavaScript : https://nimble-echinacea-d64.notion.
 
 Exercice - Chaines de caractères : https://nimble-echinacea-d64.notion.site/Enonc-Batterie-de-cha-nes-5ff12774b178428194b479e5fe426a0b?pvs=4
 
-Exercice - BONUS - Menu : https://nimble-echinacea-d64.notion.site/Exercice-Menu-3e229b1483e340db8b55978bbcc5113e?pvs=4
-
 Correction - Chaines de caractères : https://nimble-echinacea-d64.notion.site/Correction-Batterie-de-cha-nes-2c7d66998e264bdfbb133c395d6cd5c9?pvs=4 
+
+### 12 Avril
+
+Exercice - Menu : https://nimble-echinacea-d64.notion.site/Exercice-Menu-3e229b1483e340db8b55978bbcc5113e?pvs=4
 
 Cours - Switch/Case : https://nimble-echinacea-d64.notion.site/Cours-switch-case-9e0c19b8f9f847c594f0b9208cbbde42?pvs=4
