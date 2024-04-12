@@ -101,3 +101,5 @@ Correction - Chaines de caractères : https://nimble-echinacea-d64.notion.site/C
 Exercice - Menu : https://nimble-echinacea-d64.notion.site/Exercice-Menu-3e229b1483e340db8b55978bbcc5113e?pvs=4
 
 Cours - Switch/Case : https://nimble-echinacea-d64.notion.site/Cours-switch-case-9e0c19b8f9f847c594f0b9208cbbde42?pvs=4
+
+Pour Wided : https://nimble-echinacea-d64.notion.site/Pour-Wided-cd99f23c843440f8a26dda83254ec8dd?pvs=4
