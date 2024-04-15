@@ -2,6 +2,8 @@
 
 EMARGEMENT APRES MIDI 15 AVRIL : https://formation.bienvenue.pro/signature/7F7C-7D82
 
+ENTRAINEMENT ANGULAR : https://angular.io/tutorial/first-app/first-app-lesson-01
+
 - Emargement à chaque début de demi journée
 - Formulaire stagiaire à remplir a la fin de CHAQUE demi-journée 
 - Formulaire IB à remplir à la fin de chaque module (3 en l’occurence)
