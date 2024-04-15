@@ -117,3 +117,5 @@ Dictionnaires : https://nimble-echinacea-d64.notion.site/Dictionnaires-f170fa374
 Exercice - Dictionnaire - Notes : https://nimble-echinacea-d64.notion.site/Exercice-1-965dd203df3c49b6a254bb369bc42b78?pvs=4
 
 Correction - Dictionnaire - Notes : https://nimble-echinacea-d64.notion.site/Correction-Exercice-1-73ea5f924192497f88b289db22da9bfe?pvs=4
+
+TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/TP-Groupe-Gestionnaire-de-t-ches-dad4bfa4d849446885dc076757b3b7ad?pvs=4
