@@ -123,3 +123,5 @@ Correction - Dictionnaire - Notes : https://nimble-echinacea-d64.notion.site/Cor
 TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/TP-Groupe-Gestionnaire-de-t-ches-dad4bfa4d849446885dc076757b3b7ad?pvs=4
 
 Correction - TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/Correction-Gestionnaire-de-t-ches-4ef09f4d092b436e89f9837647537c61?pvs=4
+
+POO : https://nimble-echinacea-d64.notion.site/Introduction-POO-2846f6a17fab43428ed4068fb7278ed3?pvs=4
