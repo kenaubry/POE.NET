@@ -113,3 +113,5 @@ Correction - Tableaux : https://nimble-echinacea-d64.notion.site/Correction-Batt
 ### 15 Avril
 
 Dictionnaires : https://nimble-echinacea-d64.notion.site/Dictionnaires-f170fa37488d44eeb5eb7f5e583f7b80?pvs=4
+
+Exercice - Dictionnaire - Notes : https://nimble-echinacea-d64.notion.site/Exercice-1-965dd203df3c49b6a254bb369bc42b78?pvs=4
