@@ -125,3 +125,5 @@ TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/TP-Groupe-Gesti
 Correction - TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/Correction-Gestionnaire-de-t-ches-4ef09f4d092b436e89f9837647537c61?pvs=4
 
 POO : https://nimble-echinacea-d64.notion.site/Introduction-POO-2846f6a17fab43428ed4068fb7278ed3?pvs=4
+
+Demo POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-028405e9e59b4b1e96cb1db9d8c709e4?pvs=4
