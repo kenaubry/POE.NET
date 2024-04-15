@@ -109,3 +109,7 @@ Tableaux en JavaScript : https://nimble-echinacea-d64.notion.site/Tableaux-24e9d
 Exercice - Tableaux : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-tableaux-8d25befbb7694804b0fa0e8704466863?pvs=4
 
 Correction - Tableaux : https://nimble-echinacea-d64.notion.site/Correction-Batterie-tableaux-b21ec1ca0a1a4c639a413ad7d12cbee3?pvs=4
+
+### 15 Avril
+
+Dictionnaires : https://nimble-echinacea-d64.notion.site/Dictionnaires-f170fa37488d44eeb5eb7f5e583f7b80?pvs=4
