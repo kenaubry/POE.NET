@@ -121,3 +121,5 @@ Exercice - Dictionnaire - Notes : https://nimble-echinacea-d64.notion.site/Exerc
 Correction - Dictionnaire - Notes : https://nimble-echinacea-d64.notion.site/Correction-Exercice-1-73ea5f924192497f88b289db22da9bfe?pvs=4
 
 TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/TP-Groupe-Gestionnaire-de-t-ches-dad4bfa4d849446885dc076757b3b7ad?pvs=4
+
+Correction - TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/Correction-Gestionnaire-de-t-ches-4ef09f4d092b436e89f9837647537c61?pvs=4
