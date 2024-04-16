@@ -1,6 +1,6 @@
 # POE .NET - 8 avril au 18 avril
 
-EMARGEMENT APRES MIDI 15 AVRIL : https://formation.bienvenue.pro/signature/7F7C-7D82
+EMARGEMENT MATIN 16 AVRIL : https://formation.bienvenue.pro/signature/B295-0417
 
 ENTRAINEMENT ANGULAR : https://angular.io/tutorial/first-app/first-app-lesson-01
 
