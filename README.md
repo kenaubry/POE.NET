@@ -147,3 +147,5 @@ Exercice - POO - Bibliothèque : https://nimble-echinacea-d64.notion.site/Exerci
 Correction - Bibliothèque : https://nimble-echinacea-d64.notion.site/Correction-POO-Biblioth-que-b8719008444c4a62ad0a631cf7683c8d?pvs=4
 
 Exercice - Héritage : https://nimble-echinacea-d64.notion.site/Exercice-POO-H-ritage-81cae97a310e468cb7f661a82ddad671?pvs=4
+
+Correction - Héritage : https://nimble-echinacea-d64.notion.site/Correction-POO-H-ritage-d06e7faf367540cd84d9696dadab0233?pvs=4
