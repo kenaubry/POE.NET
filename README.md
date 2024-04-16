@@ -151,3 +151,5 @@ Correction - Mémorisateur : https://nimble-echinacea-d64.notion.site/Correction
 SQL : https://nimble-echinacea-d64.notion.site/Introduction-SQL-et-requ-tes-de-bases-18fd36184b3e43a0b5e4a7c6315ad9fc?pvs=4
 
 SqliteOnline : https://sqliteonline.com/
+
+SQL - Comparaison : https://nimble-echinacea-d64.notion.site/Op-rateurs-de-comparaison-et-logiques-b30e02b3f916424db0b28ec680db0a89?pvs=4
