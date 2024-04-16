@@ -147,3 +147,5 @@ Exercice bonus - Mémorisateur : https://nimble-echinacea-d64.notion.site/Exerci
 Correction - TP - Héritage : https://nimble-echinacea-d64.notion.site/Correction-Animaux-mythiques-6dcaacde3f5e44e0ae230b59ea2388a5?pvs=4
 
 Correction - Mémorisateur : https://nimble-echinacea-d64.notion.site/Correction-Entraineur-de-m-morisation-1525d4639f004871ad564f2fcbbfa8c7?pvs=4
+
+SQL : https://nimble-echinacea-d64.notion.site/Introduction-SQL-et-requ-tes-de-bases-18fd36184b3e43a0b5e4a7c6315ad9fc?pvs=4
