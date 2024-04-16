@@ -149,3 +149,5 @@ Exercice - Héritage : https://nimble-echinacea-d64.notion.site/Exercice-POO-H-r
 Correction - Héritage : https://nimble-echinacea-d64.notion.site/Correction-POO-H-ritage-d06e7faf367540cd84d9696dadab0233?pvs=4
 
 TP - Héritage : https://nimble-echinacea-d64.notion.site/TP-Animaux-mythiques-9ecb4ae9a31749d1936fabe3415e6cf5?pvs=4
+
+Exercice bonus - Mémorisateur : https://nimble-echinacea-d64.notion.site/Exercice-Entraineur-de-m-morisation-7b41213b8e96456d94adb6e7a5a214b6?pvs=4
