@@ -94,8 +94,6 @@ Exercices - Introduction au JavaScript : https://docs.google.com/forms/d/e/1FAIp
 
 POUR BENOIT - Exercices - Introduction au JavaScript : https://forms.gle/gAG3fycsZVGvtyNM9
 
-EXERCICE BONUS JAVASCRIPT : https://nimble-echinacea-d64.notion.site/TP-Animaux-mythiques-9ecb4ae9a31749d1936fabe3415e6cf5?pvs=4
-
 Exercices - Boucles : https://nimble-echinacea-d64.notion.site/Exercices-Boucles-481312dc84594dac8d844b78ec1bb277?pvs=4
 
 Correction - Introduction au JavaScript : https://nimble-echinacea-d64.notion.site/Correction-Fondamentaux-5deb2bca758049bbb98a6bfe305dde60?pvs=4
@@ -149,3 +147,5 @@ Correction - Bibliothèque : https://nimble-echinacea-d64.notion.site/Correction
 Exercice - Héritage : https://nimble-echinacea-d64.notion.site/Exercice-POO-H-ritage-81cae97a310e468cb7f661a82ddad671?pvs=4
 
 Correction - Héritage : https://nimble-echinacea-d64.notion.site/Correction-POO-H-ritage-d06e7faf367540cd84d9696dadab0233?pvs=4
+
+TP - Héritage : https://nimble-echinacea-d64.notion.site/TP-Animaux-mythiques-9ecb4ae9a31749d1936fabe3415e6cf5?pvs=4
