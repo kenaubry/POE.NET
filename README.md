@@ -155,3 +155,7 @@ SqliteOnline : https://sqliteonline.com/
 SQL - Comparaison : https://nimble-echinacea-d64.notion.site/Op-rateurs-de-comparaison-et-logiques-b30e02b3f916424db0b28ec680db0a89?pvs=4
 
 Exercice - SQL - Batterie de SELECT : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-SELECT-ddb2371a3b1448b4a7a620a5557f9695?pvs=4
+
+Ressources SQL officielles : https://sql.sh/cours/select
+
+Ressources SQL Wikipedia : https://fr.wikibooks.org/wiki/Les_bases_de_donn%C3%A9es/Les_requ%C3%AAtes_en_SQL
