@@ -124,12 +124,14 @@ TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/TP-Groupe-Gesti
 
 Correction - TP - Liste de tâches : https://nimble-echinacea-d64.notion.site/Correction-Gestionnaire-de-t-ches-4ef09f4d092b436e89f9837647537c61?pvs=4
 
-POO : https://nimble-echinacea-d64.notion.site/Introduction-POO-2846f6a17fab43428ed4068fb7278ed3?pvs=4
-
-Demo POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-028405e9e59b4b1e96cb1db9d8c709e4?pvs=4
-
 Exercice - POO : https://nimble-echinacea-d64.notion.site/Exercice-POO-Personne-5862eac04b44410097e49e9b2e3241ee?pvs=4
 
 Correction - POO : https://nimble-echinacea-d64.notion.site/Correction-POO-Personne-c7fa2cde12204b1496467207f527c4da?pvs=4
+
+### 16 Avril 
+
+POO : https://nimble-echinacea-d64.notion.site/Introduction-POO-2846f6a17fab43428ed4068fb7278ed3?pvs=4
+
+Demo POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-028405e9e59b4b1e96cb1db9d8c709e4?pvs=4
 
 Exercice 2 - POO : https://nimble-echinacea-d64.notion.site/Exercice-POO-Biblioth-que-2580743f287b4be992d2294416bbc4ae?pvs=4
