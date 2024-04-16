@@ -142,4 +142,6 @@ POO : https://nimble-echinacea-d64.notion.site/Introduction-POO-2846f6a17fab4342
 
 Demo POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-028405e9e59b4b1e96cb1db9d8c709e4?pvs=4
 
-Exercice 2 - POO : https://nimble-echinacea-d64.notion.site/Exercice-POO-Biblioth-que-2580743f287b4be992d2294416bbc4ae?pvs=4
+Exercice - POO - Bibliothèque : https://nimble-echinacea-d64.notion.site/Exercice-POO-Biblioth-que-2580743f287b4be992d2294416bbc4ae?pvs=4
+
+Correction - Bibliothèque : https://nimble-echinacea-d64.notion.site/Correction-POO-Biblioth-que-b8719008444c4a62ad0a631cf7683c8d?pvs=4
