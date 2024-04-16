@@ -2,21 +2,13 @@
 
 EMARGEMENT MATIN 16 AVRIL : https://formation.bienvenue.pro/signature/B295-0417
 
-EVALUATION MODULE JAVASCRIPT :
-
-Lien d'évaluation : https://eval.ib-formation.com/
-
-Numéro de session : 24200601
-
-Date de début : 15/04/2024
-
 ENTRAINEMENT ANGULAR : https://angular.io/tutorial/first-app/first-app-lesson-01
 
 - Emargement à chaque début de demi journée
 - Formulaire stagiaire à remplir a la fin de CHAQUE demi-journée 
 - Formulaire IB à remplir à la fin de chaque module (3 en l’occurence)
 
-Formulaire stagiaire : https://forms.monday.com/forms/9040c4af0a57b3efb8478caec8cc44e2?r=use1
+Formulaire stagiaire : https://forms.monday.com/forms/913d7f4d520c5ab38070ec272569a0ae?r=use1
 
 Invitation Discord : https://discord.gg/BwtJAUReQU
 
