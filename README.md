@@ -2,6 +2,14 @@
 
 EMARGEMENT MATIN 16 AVRIL : https://formation.bienvenue.pro/signature/B295-0417
 
+EVALUATION MODULE JAVASCRIPT :
+
+Lien d'évaluation : https://eval.ib-formation.com/
+
+Numéro de session : 24200601
+
+Date de début : 15/04/2024
+
 ENTRAINEMENT ANGULAR : https://angular.io/tutorial/first-app/first-app-lesson-01
 
 - Emargement à chaque début de demi journée
