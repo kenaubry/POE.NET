@@ -177,3 +177,5 @@ Correction - SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.s
 SQL - Fonctions d'agrégation : https://nimble-echinacea-d64.notion.site/Fonctions-d-agr-gation-8ec31992996941189011dfd7a33cea49?pvs=4
 
 Exercice - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-agr-gation-1b3615a4d5a446e59b25b4e57e531d11?pvs=4
+
+Correction - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Correction-Batterie-d-agr-gation-45360f1a6a5d42b3a0f06b3f94340bfb?pvs=4
