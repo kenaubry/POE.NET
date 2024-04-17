@@ -169,3 +169,5 @@ Exercice - Gestion Employes : https://nimble-echinacea-d64.notion.site/Exercice-
 Correction - Gestion Employes : 
 
 SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.site/Fonctions-num-riques-691767f7648e40aebeea02eaf2a7eb18?pvs=4
+
+Exercice - SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.site/Exercice-Num-riques-eaff43d4e0574acbbe44de81e7370182?pvs=4
