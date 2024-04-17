@@ -179,3 +179,5 @@ SQL - Fonctions d'agrégation : https://nimble-echinacea-d64.notion.site/Fonctio
 Exercice - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-agr-gation-1b3615a4d5a446e59b25b4e57e531d11?pvs=4
 
 Correction - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Correction-Batterie-d-agr-gation-45360f1a6a5d42b3a0f06b3f94340bfb?pvs=4
+
+SQL - Fonctions de chaines : https://nimble-echinacea-d64.notion.site/Fonctions-et-op-rations-courantes-da7ee6f1b00d4d4eb903ad0a65f9894f?pvs=4
