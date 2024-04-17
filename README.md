@@ -181,3 +181,5 @@ Exercice - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Exercice
 Correction - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Correction-Batterie-d-agr-gation-45360f1a6a5d42b3a0f06b3f94340bfb?pvs=4
 
 SQL - Fonctions de chaines : https://nimble-echinacea-d64.notion.site/Fonctions-et-op-rations-courantes-da7ee6f1b00d4d4eb903ad0a65f9894f?pvs=4
+
+Exercice - SQL - Fonctions de chaînes : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-de-cha-nes-8ccdaf0e721b4c0faa2c4c4b16b4ba97?pvs=4
