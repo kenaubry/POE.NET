@@ -183,3 +183,5 @@ Correction - SQL - Agrégation : https://nimble-echinacea-d64.notion.site/Correc
 SQL - Fonctions de chaines : https://nimble-echinacea-d64.notion.site/Fonctions-et-op-rations-courantes-da7ee6f1b00d4d4eb903ad0a65f9894f?pvs=4
 
 Exercice - SQL - Fonctions de chaînes : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-de-cha-nes-8ccdaf0e721b4c0faa2c4c4b16b4ba97?pvs=4
+
+Correction - SQL - Fonctions de chaînes : https://nimble-echinacea-d64.notion.site/Correction-Batterie-de-cha-nes-b8f1592a974c45849d74fd49136fa967?pvs=4
