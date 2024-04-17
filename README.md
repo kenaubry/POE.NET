@@ -166,7 +166,7 @@ Correction - SQL - Batterie SELECT : https://nimble-echinacea-d64.notion.site/Co
 
 Exercice - Gestion Employes : https://nimble-echinacea-d64.notion.site/Exercice-Gestion-d-employ-s-2b75954d237c4c42a6c94f7c9aa66841?pvs=4
 
-Correction - Gestion Employes : 
+Correction - Gestion Employes : https://nimble-echinacea-d64.notion.site/Correction-Gestion-d-employ-s-59facebbd04b4c03818f6105277dfeb6?pvs=4
 
 SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.site/Fonctions-num-riques-691767f7648e40aebeea02eaf2a7eb18?pvs=4
 
