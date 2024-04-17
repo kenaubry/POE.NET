@@ -161,3 +161,7 @@ Ressources SQL officielles : https://sql.sh/cours/select
 Ressources SQL Wikipedia : https://fr.wikibooks.org/wiki/Les_bases_de_donn%C3%A9es/Les_requ%C3%AAtes_en_SQL
 
 Correction - SQL - Batterie SELECT : https://nimble-echinacea-d64.notion.site/Correction-Batterie-SELECT-3e3f74865f3044708c13686386cca692?pvs=4
+
+### 17 Avril
+
+Exercice - Gestion Employes : https://nimble-echinacea-d64.notion.site/Exercice-Gestion-d-employ-s-2b75954d237c4c42a6c94f7c9aa66841?pvs=4
