@@ -173,3 +173,5 @@ SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.site/Fonctions
 Exercice - SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.site/Exercice-Num-riques-eaff43d4e0574acbbe44de81e7370182?pvs=4
 
 Correction - SQL - Fonctions numériques : https://nimble-echinacea-d64.notion.site/Correction-Num-riques-b4fdcca839d5491a8af89a0db87c1312?pvs=4
+
+SQL - Fonctions d'aggrégation : https://nimble-echinacea-d64.notion.site/Fonctions-d-agr-gation-8ec31992996941189011dfd7a33cea49?pvs=4
