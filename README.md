@@ -185,3 +185,5 @@ SQL - Fonctions de chaines : https://nimble-echinacea-d64.notion.site/Fonctions-
 Exercice - SQL - Fonctions de chaînes : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-de-cha-nes-8ccdaf0e721b4c0faa2c4c4b16b4ba97?pvs=4
 
 Correction - SQL - Fonctions de chaînes : https://nimble-echinacea-d64.notion.site/Correction-Batterie-de-cha-nes-b8f1592a974c45849d74fd49136fa967?pvs=4
+
+SQL - CASE : https://nimble-echinacea-d64.notion.site/CASE-b43256d1c07f4f1595dc355185791658?pvs=4
