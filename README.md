@@ -195,3 +195,5 @@ Exercices - SQL - CASE : https://nimble-echinacea-d64.notion.site/Exercices-CASE
 Correction - SQL - CASE : https://nimble-echinacea-d64.notion.site/Correction-CASE-c4add5142f814ba2803283fc3011b03c?pvs=4
 
 Foreign Key : https://nimble-echinacea-d64.notion.site/Foreign-Key-4021468c083f441cb15bb80f6c1a4b1e?pvs=4
+
+Exercice - Foreign Key : https://nimble-echinacea-d64.notion.site/Exercice-Foreign-Key-4fcd5ca68dc24d1d92e7ae70aab551fc?pvs=4
