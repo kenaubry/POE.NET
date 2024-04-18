@@ -215,3 +215,5 @@ Exercice - SQL - Sous-requêtes : https://nimble-echinacea-d64.notion.site/Exerc
 Correction - SQL - Sous-requêtes : https://nimble-echinacea-d64.notion.site/Correction-Sous-requ-tes-c3bf38e1599740f7a931e898c4af2f5a?pvs=4
 
 SQL - Jointures : https://nimble-echinacea-d64.notion.site/Jointures-77e46acef49c4741859a5348f3e13b9d?pvs=4
+
+Exercice - SQL - Jointures : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-JOIN-68090708df2b40789838a8cd7236f092?pvs=4
