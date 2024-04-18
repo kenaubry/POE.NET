@@ -1,6 +1,6 @@
 # POE .NET - 8 avril au 18 avril
 
-EMARGEMENT APRES MIDI 17 AVRIL : https://formation.bienvenue.pro/signature/20F9-2C0E
+EMARGEMENT MATIN 18 AVRIL : https://formation.bienvenue.pro/signature/85F4-588F
 
 ENTRAINEMENT ANGULAR : https://angular.io/tutorial/first-app/first-app-lesson-01
 
@@ -189,3 +189,5 @@ Correction - SQL - Fonctions de chaînes : https://nimble-echinacea-d64.notion.s
 SQL - CASE : https://nimble-echinacea-d64.notion.site/CASE-b43256d1c07f4f1595dc355185791658?pvs=4
 
 Exercices - SQL - CASE : https://nimble-echinacea-d64.notion.site/Exercices-CASE-df7cceee0ac04665af654fd27ac18bca?pvs=4
+
+### 18 Avril
