@@ -2,6 +2,14 @@
 
 EMARGEMENT APRES MIDI 18 AVRIL : https://formation.bienvenue.pro/signature/C982-CA81
 
+Evaluation de fin de module IB - SQL :
+
+Lien : https://eval.ib-formation.com/
+
+Numéro de session : 24200602
+
+Date de début : 16/04/2024
+
 ENTRAINEMENT ANGULAR : https://angular.io/tutorial/first-app/first-app-lesson-01
 
 - Emargement à chaque début de demi journée
