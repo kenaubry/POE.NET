@@ -207,3 +207,5 @@ Foreign Key : https://nimble-echinacea-d64.notion.site/Foreign-Key-4021468c083f4
 Exercice - Foreign Key : https://nimble-echinacea-d64.notion.site/Exercice-Foreign-Key-4fcd5ca68dc24d1d92e7ae70aab551fc?pvs=4
 
 Correction - Foreign Key : https://nimble-echinacea-d64.notion.site/Correction-Foreign-Key-fb6a106c9ba74e4daf25a2b687d2c9fe?pvs=4
+
+SQL - Sous-requêtes : https://nimble-echinacea-d64.notion.site/Sous-requ-tes-54735fbf430a4ce99fdb974a3156dd05?pvs=4
