@@ -211,3 +211,5 @@ Correction - SQL - Foreign Key : https://nimble-echinacea-d64.notion.site/Correc
 SQL - Sous-requêtes : https://nimble-echinacea-d64.notion.site/Sous-requ-tes-54735fbf430a4ce99fdb974a3156dd05?pvs=4
 
 Exercice - SQL - Sous-requêtes : https://nimble-echinacea-d64.notion.site/Exercice-Sous-requ-tes-a650caf897a1406c824519d3eea87425?pvs=4
+
+Correction - SQL - Sous-requêtes : https://nimble-echinacea-d64.notion.site/Correction-Sous-requ-tes-c3bf38e1599740f7a931e898c4af2f5a?pvs=4
